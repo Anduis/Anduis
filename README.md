@@ -1,5 +1,5 @@
 # Andres Anguiano 
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/andres207anguiano/)
 ---
 
 ## About Me
