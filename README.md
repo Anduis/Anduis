@@ -1,6 +1,6 @@
 # Andres Anguiano 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anduis/)
-[![Web]((https://img.shields.io/website?url=http%3A//www.website.com/path/to/page.html))](http://fismat.umich.mx/~anguiano/)
+[![LinkedIn](https://img.shields.io/website?url=http%3A%2F%2Ffismat.umich.mx%2F~anguiano%2F)](http://fismat.umich.mx/~anguiano/)
 
 ---
 
