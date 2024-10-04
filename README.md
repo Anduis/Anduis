@@ -1,5 +1,7 @@
 # Andres Anguiano 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anduis/)
+[![Web]((https://img.shields.io/website?url=http%3A//www.website.com/path/to/page.html))](http://fismat.umich.mx/~anguiano/)
+
 ---
 
 ## About Me
@@ -12,7 +14,7 @@ I am Andres Anguiano, a final semester student of Physical-Mathematical Sciences
 
 ## Education
 - **Faculty of Physical-Mathematical Sciences, UMSNH (2019/09 - Today):** Last semester student, with a focus on Computational Sciences.
-- **Attended:** Various conferences and events including ACM-CHI Conference, GLOBAL PLAZA CHI, Encuentro Nacional de Computación, MexIHC, Seminario y Escuela Nacional de Aprendizaje Máquina e Inteligencia Computacional, and CLIHC 2023.
+- **Attended:** Various conferences and events including ACM-CHI Conference, GLOBAL PLAZA CHI, Encuentro Nacional de Computación, MexIHC, Seminario y Escuela Nacional de Aprendizaje Máquina e Inteligencia Computacional, and CLIHC 2023, Hackathon at UNAM on CAMDA 2024.
 
 ## Volunteer Experience
 - Engaged in volunteering activities at Encuentro Nacional de Computación, MexIHC, Algorithm and Data structures Class as a Student tutor, and Tianguis de la ciencia UMSNH (science communication festival).
@@ -23,7 +25,7 @@ I am Andres Anguiano, a final semester student of Physical-Mathematical Sciences
 - **Web Development:** HTML, CSS, JavaScript, React, Material UI, Bootstrap
 - **Database:** SQL
 - **Operating Systems:** GNU-Linux, Command Line Interface (CLI), windows, powershell scripting.
-- **Concepts:** Algorithms, Data Structures, Cryptography, Machine Learning, Computer Vision, String Pattern Matching, Lex & Yacc, Data Storytelling, Data Visualization, UX/UI, Responsive Design, Design Thinking.
+- **Courses:** Algorithms, Data Structures, Cryptography, Machine Learning, Computer Vision, Genetic Algorithms, String Pattern Matching, Lex & Yacc, Data Storytelling, Data Visualization, UX/UI, Responsive Design, Design Thinking.
 
 ## Soft Skills
 - Communication
