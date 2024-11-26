@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am Andres Anguiano, a final semester student of Physical-Mathematical Sciences with a profound passion for science, nature, and sociology. My curiosity drives me to explore various subjects, with a particular fascination for Computational Sciences. Throughout my academic journey, I've engaged in personal and curricular projects, competitions, and conferences, all aimed at deepening my understanding of this field. Currently seeking opportunities to enhance my skills, expand my knowledge, and gain valuable experiences for continuous professional growth.
+I am Andres Anguiano, I have a bachelor's degree in Physical-Mathematical Sciences with a profound passion for science, nature, and sociology. My curiosity drives me to explore various subjects, with a particular fascination for Computational Sciences. Throughout my academic journey, I've engaged in personal and curricular projects, competitions, and conferences, all aimed at deepening my understanding of this field. Currently seeking opportunities to enhance my skills, expand my knowledge, and gain valuable experiences for continuous professional growth.
 
 ## Achievements
 - **Edis Interactive, Puebla:** Internship (2022/07 - 2022/09) - Internship at an interactive software company and winner in a product design contest.
